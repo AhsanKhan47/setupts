@@ -1,6 +1,6 @@
 # Basic TypeScript setup
 
-# <mark >tsc --init</mark> //Create tsConfig.json 
+# <mark>tsc --init</mark> //Create tsConfig.json 
 
 
 npm init -y //Create package.json  
