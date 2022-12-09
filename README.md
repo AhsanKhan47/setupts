@@ -4,6 +4,6 @@
 
 `npm init -y` //Create package.json  
 
-`npm i @types/node -D   // Install types to node module. Added devDependencies to package.json
+`npm i @types/node -D`   // Install types to node module. Added devDependencies to package.json
 
 
